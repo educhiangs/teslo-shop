@@ -12,11 +12,12 @@
 3. Clonar el archivo `.env-template` y renombrarlo como .env
 4. Cambiar las variables de entorno
 5. Levantar la base de datos
-6. Ejecutar SEED
 
 ```
 http://localhost:3000/api/seed
 ```
+
+6. Ejecutar SEED
 
 ```
 docker-compose -d
